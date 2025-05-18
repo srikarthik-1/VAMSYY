@@ -32,6 +32,7 @@ body {
 /* Profile Photo */
 .profile-photo {
     width: 220px;
+height:auto;
     border-radius: 25px;
     object-fit: cover;
     border: 0;
@@ -116,8 +117,5 @@ body {
         padding: 20px;
     }
 
-    .profile-photo {
-        width: 150px;
-        height: auto;
-    }
+
 }
