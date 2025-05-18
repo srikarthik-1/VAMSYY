@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vamsi Profile Website
 
 This is a simple personal profile website for Thota Mohan Vamsi. It includes:
@@ -12,3 +13,6 @@ This is a simple personal profile website for Thota Mohan Vamsi. It includes:
 ---
 
 You can use this as a template for your own personal website!
+=======
+# VAMSYY
+>>>>>>> 1ce4071ae28af2778b4c5a5412b043bf26694d76
