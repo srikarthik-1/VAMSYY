@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Vamsi Profile Website
 
 This is a simple personal profile website for Thota Mohan Vamsi. It includes:
+
 - A profile HTML page (`VAMSI.HTML`)
 - Custom styles (`COLOUR.CSS`)
 - A profile image (`IMG-20250512-WA0003[1].jpg`)
@@ -13,6 +13,3 @@ This is a simple personal profile website for Thota Mohan Vamsi. It includes:
 ---
 
 You can use this as a template for your own personal website!
-=======
-# VAMSYY
->>>>>>> 1ce4071ae28af2778b4c5a5412b043bf26694d76
